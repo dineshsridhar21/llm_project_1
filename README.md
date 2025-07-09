@@ -1,1 +1,1 @@
-#Inital Setup
+#  Initial Setup
